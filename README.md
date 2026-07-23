@@ -3,14 +3,7 @@
 🎓 Estudante do **1º ano de Sistemas de Informação** na **São Paulo Tech School (SPTech)**
 💡 Apaixonado por tecnologia e sempre buscando aprender mais sobre diferentes linguagens e como elas funcionam na prática.
 
----
 
-## 🚀 Sobre mim
-
-* 📚 Sempre estudando e evoluindo em programação
-* 💻 Interesse em desenvolvimento web e back-end
-* 🧠 Curioso sobre lógica, código e soluções eficientes
-* ⚡ Focado em crescer como desenvolvedor
 
 ---
 
