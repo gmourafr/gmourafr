@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Guilherme!
+ Estudante do **1º ano de Sistemas de Informação** na **São Paulo Tech School (SPTech)**
 
-🎓 Estudante do **1º ano de Sistemas de Informação** na **São Paulo Tech School (SPTech)**
-💡 Apaixonado por tecnologia e sempre buscando aprender mais sobre diferentes linguagens e como elas funcionam na prática.
 
 
 
