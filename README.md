@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Guilherme!
- Estudante do **1º ano de Sistemas de Informação** na **São Paulo Tech School (SPTech)**
+ Estudante do **2 semestre da Universidade FAM**
 
 
 
@@ -36,7 +36,7 @@
 
 <div>
 
-<a href="mailto:guilherme.fmoura@sptech.school">
+<a href="mailto:guilherme.fmouradev@outlook.com">
   <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
